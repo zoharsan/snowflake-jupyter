@@ -1,3 +1,5 @@
+# This repo is no longer being maintained. Please check the [snowtire](https://github.com/zoharsan/snowtire) repo
+
 # Introduction
 
 This docker image aims to provide Snowflake users with a turn key docker environment already set-up with Snowflake drivers of the version of your choice with a comprehensive data science environment including r, sci-py, tensorflow, pyspark among others as well as a Jupyter notebook to experiment the various Snowflake connectors available: 
